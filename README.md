@@ -7,6 +7,9 @@ A Unity URP technical art study featuring real-time interactive ripples, foam in
 ## Preview
 
 <!-- Upload an MP4 through GitHub's Markdown editor and paste the generated attachment URL here. -->
+https://github.com/user-attachments/assets/20fed316-5417-4e66-908b-0c27f84f8f84
+
+
 
 ## Overview
 
