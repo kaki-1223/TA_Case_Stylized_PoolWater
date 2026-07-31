@@ -33,5 +33,5 @@ Material:
     - _Radius: 0.025
     - _Strength: 0.1
     m_Colors:
-    - _Center: {r: 0.10523787, g: 0.40679842, b: 0, a: 0}
+    - _Center: {r: 0.27053094, g: 0.2568653, b: 0, a: 0}
   m_BuildTextureStacks: []

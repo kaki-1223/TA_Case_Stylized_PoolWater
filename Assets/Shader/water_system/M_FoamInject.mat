@@ -33,8 +33,8 @@ Material:
     - _NoiseScale: 100
     - _NoiseThreshold: 0.307
     - _Radius: 0.04
-    - _Seed: 2604.0771
+    - _Seed: 3303.7034
     - _Strength: 0.35
     m_Colors:
-    - _Center: {r: 0.10523787, g: 0.40679842, b: 0, a: 0}
+    - _Center: {r: 0.27053094, g: 0.2568653, b: 0, a: 0}
   m_BuildTextureStacks: []

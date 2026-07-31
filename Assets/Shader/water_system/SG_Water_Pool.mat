@@ -55,14 +55,14 @@ Material:
     m_Ints: []
     m_Floats:
     - _Alpha: 0.24
-    - _ChromaticOffset: 0.1
-    - _ChromaticStrength: 1
+    - _ChromaticOffset: 0.01
+    - _ChromaticStrength: 0.04
     - _DepthAlphaStrength: 0.3
     - _DepthMaxDistance: 1
     - _DistortionStrength: 0.05
     - _EdgeAlphaBoost: 0.18
     - _FoamDistance: 0.08
-    - _FoamIntensity: 1
+    - _FoamIntensity: 5
     - _FoamNoiseScale: 8
     - _FoamNormalStrength: 0.08
     - _FoamSmoothness: 0.25
@@ -77,7 +77,7 @@ Material:
     - _NormalScale: 0.5
     - _QueueControl: 0
     - _QueueOffset: 0
-    - _RefractedStrength: 0.08
+    - _RefractedStrength: 1
     - _RefractionBlend: 0.24
     - _Smoothness: 0.9
     - _WaveAmpA: 0.06
@@ -96,8 +96,8 @@ Material:
     - _JellyPatchColor: {r: 0.34999996, g: 0.95, b: 0.9, a: 1}
     - _JellyPatchSpeed: {r: 0.03, g: 0.01, b: 0, a: 0}
     - _ShallowColor: {r: 0.3622878, g: 0.8930817, b: 0.80111724, a: 1}
-    - _SpeedA: {r: 0.03, g: 0.01, b: 0, a: 0}
-    - _SpeedB: {r: -0.02, g: 0.025, b: 0, a: 0}
+    - _SpeedA: {r: 0.06, g: 0.02, b: 0, a: 0}
+    - _SpeedB: {r: -0.04, g: 0.05, b: 0, a: 0}
     - _TillingA: {r: 1, g: 1, b: 0, a: 0}
     - _TillingB: {r: 2, g: 2, b: 0, a: 0}
     - _WaveDirA: {r: 1, g: 0.25, b: 0, a: 0}
