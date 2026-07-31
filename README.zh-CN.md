@@ -7,7 +7,7 @@
 ## 效果预览
 
 <!-- 在 GitHub 的 Markdown 编辑页面上传 MP4，并将生成的视频附件链接粘贴到这里。 -->
-
+https://github.com/user-attachments/assets/20fed316-5417-4e66-908b-0c27f84f8f84
 ## 项目简介
 
 本项目使用 RenderTexture、Shader Graph 和 C# 搭建了一套实时交互水面系统。
